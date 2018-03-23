@@ -1,0 +1,78 @@
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\csc.exe
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\vbc.exe
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\Cart_Administration.dll.config
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\Cart_Administration.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\Cart_Administration.pdb
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\EntityFramework.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Helpers.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Mvc.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Razor.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Razor.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\EntityFramework.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Razor.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Razor.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Helpers.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\bin\System.Web.Mvc.xml
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\obj\Debug\Cart_Administration.csprojResolveAssemblyReference.cache
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\obj\Debug\Cart_Administration.dll
+C:\Users\RaZzLe\Documents\Visual Studio 2015\Projects\Cart_Administration\Cart_Administration\obj\Debug\Cart_Administration.pdb
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\csc.exe
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\vbc.exe
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\VBCSCompiler.exe
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\Cart_Administration.dll.config
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\Cart_Administration.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\Cart_Administration.pdb
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\EntityFramework.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\EntityFramework.SqlServer.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Helpers.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Mvc.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Razor.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Deployment.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Razor.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\EntityFramework.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\EntityFramework.SqlServer.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Razor.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Deployment.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Webpages.Razor.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Helpers.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\System.Web.Mvc.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\obj\Debug\Cart_Administration.csprojResolveAssemblyReference.cache
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\obj\Debug\Cart_Administration.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\obj\Debug\Cart_Administration.pdb
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\PagedList.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\PagedList.Mvc.dll
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\PagedList.xml
+C:\Users\RaZzLe\Desktop\Projelerim\Cart_Administration\Cart_Administration\bin\PagedList.Mvc.xml

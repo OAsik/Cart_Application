@@ -1,0 +1,28 @@
+﻿@model List<Cart_Administration.Models.Categories>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+    <link href="~/Style/HomeIndex.css" rel="stylesheet" />
+}
+
+<div class="table-wrapper">
+    <table>
+        <thead>
+            <tr>
+                <th>Category ID</th>
+                <th>Category Name</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var category in Model)
+            {
+                <tr>
+                    <td>@category.CategoryID</td>
+                    <td>@Html.ActionLink(category.CategoryName, "Index", "Product", new { @id = category.CategoryID }, new { @style = "color: tomato" })</td>
+                    <td>@category.Description</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

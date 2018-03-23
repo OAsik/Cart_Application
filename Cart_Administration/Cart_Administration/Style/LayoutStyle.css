@@ -1,0 +1,55 @@
+﻿/*HTML Body*/
+body {
+    padding-top: 3%;
+    background: #8999A8;
+}
+/*HTML Body*/
+/*NavBar*/
+.navbar, .dropdown-menu {
+    background: rgba(255, 255, 255, 0.25);
+    border: none;
+}
+
+    .nav > li > a, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover, .dropdown-menu > li > a, .dropdown-menu > li {
+        border-bottom: 3px solid transparent;
+    }
+
+        .nav > li > a:focus, .nav > li > a:hover, .nav .open > a, .nav .open > a:focus, .nav .open > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover {
+            border-bottom: 3px solid transparent;
+            background: none;
+        }
+
+        .navbar a, .dropdown-menu > li > a, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover, .navbar-toggle {
+            color: #fff;
+        }
+
+.dropdown-menu {
+    box-shadow: none;
+    -webkit-box-shadow: none;
+}
+
+.nav li:hover:nth-last-child(8n+1), .nav li.active:nth-last-child(8n+1) {
+    border-bottom: #F0776C 3px solid;
+}
+
+.nav li:hover:nth-last-child(8n+2), .nav li.active:nth-last-child(8n+2) {
+    border-bottom: #DB9DBE 3px solid;
+}
+
+.nav li:hover:nth-last-child(8n+3), .nav li.active:nth-last-child(8n+3) {
+    border-bottom: #C49CDE 3px solid;
+}
+
+.img-li {
+    height: 53px;
+}
+
+.img-li a {
+    height: 53px;
+}
+
+.img-li a .cart-anchor {
+    margin-top: -12px;
+    height: 48px;
+}
+/*NavBar*/

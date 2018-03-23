@@ -1,0 +1,11 @@
+﻿.row {
+    margin-top: 5%;
+}
+
+.product-table tbody tr td {
+    line-height: 48px;
+}
+
+.pagedList {
+    text-align: center;
+}

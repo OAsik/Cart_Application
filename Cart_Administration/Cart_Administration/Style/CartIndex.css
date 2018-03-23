@@ -1,0 +1,11 @@
+﻿.row {
+    margin-top: 5%;
+}
+
+.check {
+    text-align: right;
+}
+
+img:hover {
+    cursor: pointer;
+}

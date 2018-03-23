@@ -1,0 +1,51 @@
+﻿#slide-2 {
+    background-image: url('../../Images/code_review.jpeg');
+    margin-top: 80px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center center;
+}
+
+.animate-box {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Playfair Display', sans-serif;
+}
+
+.fh5co-counter-wrap {
+    padding: 3em 0;
+    background-color: rgba(75, 86, 160, 0.7);
+    height: 360px;
+}
+
+.fh5co-counter {
+    font-size: 40px;
+    display: block;
+    color: yellow;
+    width: 100%;
+    font-weight: 400;
+    margin-bottom: .3em;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.fh5co-counter-label {
+    font-size: 12px;
+    margin-bottom: 2em;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 600;
+    color: greenyellow;
+}
+
+.hsContent {
+    top: auto;
+}
+
+.empty-div {
+    background: #8999A8;
+    height: 200px;
+    width: 100%;
+}

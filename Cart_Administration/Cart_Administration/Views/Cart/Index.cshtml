@@ -1,0 +1,102 @@
+﻿@model List<Cart_Administration.Models.ProductModel>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage.cshtml";
+    <link href="~/Style/CartIndex.css" rel="stylesheet" />
+}
+
+<div class="row">
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="col-lg-12">
+                <table class="table table-hover">
+                    <thead>
+                        <tr>
+                            <th>Product ID</th>
+                            <th>Product Name</th>
+                            <th>Unit Price</th>
+                            <th>Order Amount</th>
+                            <th>Total Price</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="panel panel-default">
+        <div class="panel-body">
+            <div class="col-lg-6 col-lg-offset-6 check">
+                <label>You have to pay: <span id="totalCount"></span> $</label>
+                <a href="#" class="btn btn-success">Order Now</a>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $('[data-toggle="tooltip"]').tooltip()
+    })
+    $(document).ready(function () {
+        setTimeout(function () {
+            $.Cart.List()
+        }, 400)
+        $.Cart = {
+            List: function () {
+                $.getJSON("http://localhost:25628/Cart/List", function (data) {
+                    $('table tbody tr').remove()
+                    var totalCount = 0;
+                    var cartCount = Object.keys(data).length;
+                    if (cartCount > 0) {
+                        $.each(data, function (key, item) {
+                            $("table tbody").append(
+                                "<tr><td style='line-height:40px;'>"
+                                + item.ID + "</td><td style='line-height:40px;'>"
+                                + item.ProductName + "</td><td style='line-height:40px;'>"
+                                + item.UnitPrice + "</td><td style='line-height:40px;'>"
+                                + item.Quantity + "</td><td style='line-height:40px;'>"
+                                + (item.Quantity * item.UnitPrice) +
+                                "</td><td><img onclick='$.Cart.Increase(" + item.ID + ")' width='40' height='40' src='/Images/Add-Cart-icon.png' data-toggle='tooltip' data-placement='right' title='Arttır' /><img onclick='$.Cart.Decrease(" + item.ID + ")' width='40' height='40' src='/Images/Remove-Cart-icon.png' data-toggle='tooltip' data-placement='right' title='Azalt' /><img onclick='$.Cart.Remove(" + item.ID + ")' width='40' height='40' src='/Images/Shopping-Cart-icon.png' data-toggle:'tooltip' data-placement='right' title='Kaldır' /></td></tr>"
+                            )
+                            totalCount += (item.Quantity * item.UnitPrice);
+                        });
+                    }
+                    $("#totalCount").html(totalCount);
+                });
+            },
+            Increase: function (ID) {
+                $.ajax({
+                    type: "POST",
+                    dataType: "Json",
+                    url: "@Url.Action("Increase", "Cart")/" + ID,
+                    success: function (data) {
+                        $.Cart.List();
+                    }
+                })
+            },
+            Decrease: function (ID) {
+                $.ajax({
+                    type: "POST",
+                    dataType: "Json",
+                    url: "@Url.Action("Decrease", "Cart")/" + ID,
+                    success: function (data) {
+                        $.Cart.List();
+                    }
+                })
+            },
+            Remove: function (ID) {
+                $.ajax({
+                    type: "POST",
+                    dataType: "Json",
+                    url: "@Url.Action("Remove", "Cart")/" + ID,
+                    success: function (data) {
+                        $.Cart.List();
+                    }
+                })
+            }
+        }
+    });
+</script>
